@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "onnxruntime-web": "^1.18.0",
+    "puppeteer": "^22.12.0"
+  }
+}
